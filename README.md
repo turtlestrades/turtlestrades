@@ -113,7 +113,7 @@ I'm particularly interested in the intersection of **software engineering, AI, a
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulcse1\&theme=tokyo-night\&hide_border=true)](https://github.com/rahulcse1)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=turtlestrades\&theme=tokyo-night\&hide_border=true)](https://github.com/rahulcse1)
 
 </div>
 
