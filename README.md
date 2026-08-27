@@ -110,16 +110,6 @@ I'm particularly interested in the intersection of **software engineering, AI, a
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=turtlestrades\&theme=tokyo-night\&hide_border=true)](https://github.com/turtlestrades)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
