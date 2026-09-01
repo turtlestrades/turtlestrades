@@ -17,7 +17,7 @@ My primary focus is the **JVM ecosystem**, with a strong interest in backend eng
 * 🔭 Exploring how **AI can be integrated into modern software systems**
 * 💞️ Passionate about **knowledge sharing and collaborative learning**
 * 💬 Always happy to discuss **Java, Spring, JVM, System Design, AI & Software Architecture**
-* 📫 Reach me at **[rahulcse1@gmail.com](mailto:rahulcse1@gmail.com)**
+* 📫 Reach me at **[turtlestrades.ai@gmail.com](mailto:turtlestrades.ai@gmail.com)**
 * 🌐 Personal Website: [https://turtlestrades.github.io/itsme/](https://turtlestrades.github.io/itsme/)
 
 ---
