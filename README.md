@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Amar Jeet!
 
-### 🚀 Software Engineer | JVM Enthusiast | Backend & Full-Stack Developer
+### 🚀 Software Engineer | Backend & Full-Stack Developer
 
 I enjoy building **scalable, reliable, and maintainable software** and exploring the technologies shaping modern software engineering.
 
@@ -116,7 +116,7 @@ I'm particularly interested in the intersection of **software engineering, AI, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amar%20Jeet%20C.-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/turtlestrades/)
 
-[![Email](https://img.shields.io/badge/Email-rahulcse1%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rahulcse1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rahulcse1%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:turtlestrades.ai@gmail.com)
 
 </div>
 
